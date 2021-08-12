@@ -1,0 +1,27 @@
+[submodule "mycroft-mark-1"]
+	path = mycroft-mark-1
+	url = https://github.com/MycroftAI/mycroft-mark-1.git
+[submodule "picroft-google-aiy-voicekit"]
+	path = picroft-google-aiy-voicekit
+	url = https://github.com/andlo/picroft-google-aiy-voicekit-skill.git
+[submodule "wikiquote"]
+	path = wikiquote
+	url = https://github.com/danielwine/wikiquote-skill
+[submodule "laugh"]
+	path = laugh
+	url = https://github.com/JarbasAl/skill-laugh.git
+[submodule "pokemon"]
+	path = pokemon
+	url = https://github.com/retrodaredevil/pokemon-skill.git
+[submodule "mycroft-mark-2"]
+	path = mycroft-mark-2
+	url = https://github.com/mycroftai/skill-mark-2
+[submodule "list-manager"]
+	path = list-manager
+	url = https://github.com/lb803/list-manager-skill.git
+[submodule "Gui-Examples"]
+	path = Gui-Examples
+	url = https://github.com/AIIX/Skill-Gui-Examples
+[submodule "today-in-history"]
+	path = today-in-history
+	url = https://github.com/austin-carnahan/days-in-history-skill
